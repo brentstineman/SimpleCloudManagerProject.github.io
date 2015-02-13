@@ -1,11 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "About SCAMP"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+stuff goes here
