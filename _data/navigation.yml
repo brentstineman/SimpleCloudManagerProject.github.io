@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: "Features"
+- title: Features
   url: /features/
   excerpt: "blah blah blah"
   image:
   
-  - title: "About"
+  - title: About
   url: /About/
   excerpt: "blah blah blah2"
   image:
