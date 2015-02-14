@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: "SCaMP"
+title: "SCAMP"
 ---
 <div class="page-lead" style="background-image:url(//www.simplecloudmgr.org/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
