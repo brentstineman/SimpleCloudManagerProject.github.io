@@ -4,4 +4,4 @@ permalink: /
 title: "About SCAMP"
 ---
 
-stuff goes here
+Welcome to SCAMP ... 
