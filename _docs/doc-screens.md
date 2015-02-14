@@ -1,6 +1,6 @@
 ---
 category: documentation
-layout: article
+layout: document
 permalink: /docs/screens/
 title: "Screen Shots"
 collection: "docs"

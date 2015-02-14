@@ -1,6 +1,6 @@
 ---
 category: documentation
-layout: article
+layout: document
 permalink: /docs/features/
 title: "Features"
 collection: "docs"

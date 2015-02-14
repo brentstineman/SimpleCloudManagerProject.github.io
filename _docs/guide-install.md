@@ -1,7 +1,7 @@
 ---
 collection: docs
 category: guide
-layout: article
+layout: document
 permalink: /docs/install/
 title: "Installation/Setup"
 ---
