@@ -1,18 +1,18 @@
-<p>Documentation</p>
-<div class="bullets">
+Documentation
+<div class="toc">
 	{% for page in site.pages %}{% if page.collection == 'docs' and page.category == 'documentation' %}
 		<div>
-			<a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+			 - <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
 		</div><!-- /.bullet-icon -->
 	{% endif %}{% endfor %}
 </div><!-- /.bullets -->
 
-<p>Guides/Tutorials</p>
-<div class="bullets">
+Guides/Tutorials
+<div class="toc">
 	{% for page in site.pages %}{% if page.collection == 'docs' and page.category == 'guide' %}
 	<div class="bullet three-col-bullet">
 		<div>
-			<a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+			- <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
 		</div><!-- /.bullet-icon -->
 	</div><!-- /.bullet -->
 	{% endif %}{% endfor %}

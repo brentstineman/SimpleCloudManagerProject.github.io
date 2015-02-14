@@ -469,3 +469,24 @@
 		}
 	}
 }
+
+// added for document section layout - Brent
+// --------------------------------------------------
+
+#docwrap {
+	width:100%;
+	margin:0 auto;
+	float: left;
+}
+
+#docmain {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+#docnav {
+	float:left;
+	width:150px;
+	background:#c9c;
+}
