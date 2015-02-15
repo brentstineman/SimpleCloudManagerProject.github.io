@@ -1,5 +1,6 @@
 ---
 layout: article
+share: false
 permalink: /contribute
 title: "How to Contribute"
 ---
