@@ -18,17 +18,31 @@ title: "SCAMP"
 
 Welcome to the Simple Cloud Manager Project (SCAMP) !!
 
-When dealing with the cloud, there are two common challenges:
+When dealing with the cloud, there are two common asks:
 
-1) Make it easy for a non-technical user to provision and access cloud resources. 
+<i class="fa fa-wrench fa-4x"></i>  <h1>Make it easy!</h1>
 
-2) Provide some cost control measures to prevent billing surprises. 
+Most cloud systems require an experienced computer professional to figure out how to provision resources. If you just want to allow a user to spin up a virtual machine that they can connect to remotely to do some work, its often a complex process.
 
-To that end, we have created SCAMP as an open source solution. Our goal is as follows:
+SCAMP aims to make it easier by hiding much of the plumbing from your end users. 
 
-- Address the challenges above for Microsoft Azure subscriptions with a project that can be easily deployed by subscription owners to provide an "out of the box" solution
-- Provide a reference implementation that takes advantage of the latest enhancements to Azure's Management API for those that want to build their own solution.
-- Demonstrate how new Microsoft technologies can be combined with the latest Open Source innovations
-- Be transparent and engage with the open source community
+
+<i class="fa fa-money fa-4x"></i>  <h1>Control Costs!</h1>
+
+Cloud systems have alot of "dials" you need to track to be able to calculate billing costs. And even if you do understand them, there's no guarantee that they'll be used appropriately and not accidently run your bill up. 
+
+Two key features of SCAMP are the ability to estimate the amount that each resource costs you, but also put budgets in place. This features extend to having the ability to automatically shut down expensive resources when they are not in use. 
+
+<i class="fa fa-book fa-4x"></i> # What is SCAMP #
+
+To that end, we are creating the Simple Cloud Manager Project, or SCAMP for short. This open source solution has the following goals:
+
+<i class="fa fa-arrow-circle-o-right"></i> Create am easily deployed "out of the box" solution to address access and cost control concerns for Microsoft Azure.
+
+<i class="fa fa-arrow-circle-o-right"></i> Provide a reference implementation that takes advantage of the latest enhancements to Azure's Management API for those that want to build their own solution.
+
+<i class="fa fa-arrow-circle-o-right"></i> Demonstrate how new Microsoft technologies can be combined with the latest Open Source innovations
+
+<i class="fa fa-arrow-circle-o-right"></i> Create a vibrant open source community around the solution by being transparent from the start and accepting feedback/input from all sources.
 
 We hope you find this effort interesting and valuable and will possibly even join us in this journey.
