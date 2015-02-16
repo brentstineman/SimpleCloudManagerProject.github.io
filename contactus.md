@@ -23,13 +23,10 @@ If you don't want to let the entire world know you're reaching out to us, or sim
 ## The Team
 Like all open source projects, this is the effort of a team of folks that are doing this as their "real jobs" allow. If you'd like to speak to someone behind this effort, please feel free to reach out to any of us individually.
 
-[Brent Stineman - cat herder](http://brentdacodemonkey.wordpress.com "Brent's Notepad")
+{% include bio-brent.html %}
 
-![Brent Stineman](images/teamshots/headshot-brent.jpeg) Responsible for helping kick off the project and keeping all the cats moving in the right direction. Not the sharpest technical tool in the shed, but holder of the "vision" and responsible for working with potential adopters. 
 
-<i class="fa fa-twitter"> [@brentcodemonkey](http://twitter.come/brentcodemonkey "Brent@Twitter")</i> or 
-<i class="fa fa-envelope"> [brestin@mirocosft.com](mailto:brestin@Microsoft.com "Brent@Work")</i>
-
+----------
 
 Shawn 
 

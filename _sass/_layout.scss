@@ -476,18 +476,19 @@
 #docwrap {
 	width:100%;
 	margin:0 auto;
-	float: left;
+
 }
 
 #docmain {
-	display:block;
-	margin-left:auto;
-	margin-right: auto;
+    margin: 0px 50px 50px 200px;
+    padding: 10px;
 }
 
 #docnav {
-	float:left;
-	width:225;
+	float: left;
+    left: 20px;
+    width: 172px;
+    padding: 10px;
 }
 
 body {
