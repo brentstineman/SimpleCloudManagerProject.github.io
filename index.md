@@ -16,8 +16,6 @@ title: "SCAMP"
       </div><!-- /.page-lead-content -->
 </div>
 
-Welcome to the Simple Cloud Manager Project (SCAMP) !!
-
 When dealing with the cloud, there are two common asks:
 
 # <i class="fa fa-wrench fa-2x"></i> Make it easy!
@@ -25,7 +23,6 @@ When dealing with the cloud, there are two common asks:
 Most cloud systems require an experienced computer professional to figure out how to provision resources. If you just want to allow a user to spin up a virtual machine that they can connect to remotely to do some work, its often a complex process.
 
 SCAMP aims to make it easier by hiding much of the plumbing from your end users. 
-
 
 # <i class="fa fa-money fa-2x"></i> Control Costs!
 
@@ -37,12 +34,12 @@ Two key features of SCAMP are the ability to estimate the amount that each resou
 
 To that end, we are creating the Simple Cloud Manager Project, or SCAMP for short. This open source solution has the following goals:
 
-<i class="fa fa-arrow-circle-o-right"></i> Create am easily deployed "out of the box" solution to address access and cost control concerns for Microsoft Azure.
+<i class="fa fa-arrow-circle-o-right"></i> Build an easily deployed "out of the box" solution to address access and cost control concerns for Microsoft Azure.
 
 <i class="fa fa-arrow-circle-o-right"></i> Provide a reference implementation that takes advantage of the latest enhancements to Azure's Management API for those that want to build their own solution.
 
 <i class="fa fa-arrow-circle-o-right"></i> Demonstrate how new Microsoft technologies can be combined with the latest Open Source innovations
 
-<i class="fa fa-arrow-circle-o-right"></i> Create a vibrant open source community around the solution by being transparent from the start and accepting feedback/input from all sources.
+<i class="fa fa-arrow-circle-o-right"></i> Foster a vibrant open source community around the solution by being transparent from the start and accepting feedback/input from all sources.
 
 We hope you find this effort interesting and valuable and will possibly even join us in this journey.
