@@ -6,16 +6,37 @@ title: "Features"
 collection: "docs"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer est lorem, euismod scelerisque pharetra id, rutrum id quam. Praesent libero magna, condimentum eget dolor non, sollicitudin ornare turpis. Fusce porttitor sed ligula a commodo. In consequat leo eget enim varius vestibulum. Donec eu purus vitae risus luctus ornare. Nullam lacus ante, tincidunt consequat tellus sit amet, volutpat viverra nibh. Mauris nisi enim, viverra eget gravida quis, feugiat eget arcu. Donec a elit non turpis mattis varius feugiat egestas arcu. Suspendisse in urna ut ipsum vulputate condimentum. Aenean convallis nisi sed volutpat finibus. Nullam egestas lacinia mollis. Nam finibus lacus turpis, in scelerisque ex scelerisque eget. Proin ultricies leo in sapien scelerisque, in tincidunt tellus porttitor. Morbi id nibh rutrum arcu dignissim finibus. 
+Every project needs a feature list. So as we begin the Simple Cloud Manager Project, we drafted a list of features based on the requirements of potential early adopters, namely educational institutions and small/medium sized businesses.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id varius libero. Mauris eleifend, arcu hendrerit convallis venenatis, neque lacus ultrices nisi, sed tincidunt dui nunc id metus. Morbi quis dui sed nibh fringilla pellentesque eget at odio. Aenean quis nibh ac tellus laoreet semper eget sed mi. Phasellus vestibulum elementum massa id cursus. Donec quis tortor non ligula consequat consectetur vel et velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius dui ex, ac euismod nisi laoreet vitae. Maecenas posuere scelerisque enim. Phasellus ac imperdiet leo, non varius justo. Aenean tristique vitae massa aliquam commodo. Praesent pretium dapibus vehicula. Nullam porta maximus magna mattis porttitor. Quisque scelerisque risus hendrerit diam placerat, quis scelerisque tortor porta. Aliquam in odio sit amet urna volutpat eleifend ac vitae libero. 
+## Provide a web based "portal" to interact with the system
+The primary method of interacting with SCAMP will be via a **web site** that must work properly across the majority of the browsers and devices used by the initial target audience.
 
-In hac habitasse platea dictumst. Morbi id lorem tincidunt, bibendum sem a, porttitor nisl. Praesent ut mauris nibh. Aenean feugiat dolor vel justo egestas, sed auctor ipsum aliquam. Aenean quam velit, ultrices sed enim quis, feugiat porta dolor. Morbi interdum bibendum nunc ac tempor. Suspendisse gravida iaculis turpis id rutrum. 
+The web portal must be able to be "**white labelled**", so that the organization leveraging it can make the site match existing web assets.  Security for the portal will initially be provided via **integration with an existing Office 365 or Azure Active Directory domain** (this will hopefully be expanded in later versions). **Users will not be required to also be on the Azure subscription**. 
 
-Donec odio libero, pretium fringilla metus sit amet, interdum tincidunt est. Nulla ultricies arcu sit amet vulputate malesuada. Fusce consectetur mollis pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ut imperdiet dolor, a venenatis augue. Donec consequat mollis tellus. Vivamus tempor scelerisque lobortis. In auctor at tortor a efficitur. Duis sed libero erat. Aenean a dolor eget metus tristique dictum ut facilisis odio. Fusce est odio, auctor sed imperdiet nec, tincidunt sit amet mauris. Curabitur imperdiet dolor neque, vel viverra eros rutrum et. 
+And the portal must be **easy to use**. If end users need to be "trained" to use it, its not simple enough. 
 
-Etiam nec ligula ut purus volutpat convallis a eget sapien. Proin id ultrices odio. Nullam egestas, libero nec maximus euismod, augue purus consequat purus, in molestie sapien massa ac tellus. Suspendisse aliquet finibus elit, eget accumsan leo tincidunt a. Morbi et sem sapien. Proin vehicula tincidunt massa sed vestibulum. Morbi lacus elit, sollicitudin at massa nec, dapibus malesuada dui. Aliquam urna eros, gravida et porta sit amet, venenatis nec risus. Pellentesque convallis nisl ac vulputate posuere. Duis porta cursus dapibus. Praesent id elementum enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
+## Allow users to access and provision resources
+We envision 3 primary user roles:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis posuere metus sapien, vitae euismod sem molestie nec. Mauris vel mattis dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur in ante ac turpis suscipit vehicula sit amet sed dolor. In aliquet eros vel nibh sagittis, nec molestie velit consequat. Nullam eu nibh cursus nunc facilisis sollicitudin ut eget nunc. Sed luctus, risus et viverra commodo, augue libero venenatis felis, non malesuada diam eros nec ipsum. Proin commodo pulvinar felis. Curabitur sed eros eu justo porttitor ultrices. Sed lobortis eget ligula mollis egestas. Vestibulum nec consequat lacus. Praesent a cursus quam. Donec gravida, risus ac laoreet porttitor, diam ipsum placerat purus, in tempus felis mauris in leo. Aliquam velit velit, convallis quis libero nec, finibus aliquet lectus. 
+- System Administrators: responsible for SCAMP configuration and subscription level administration
 
-Donec interdum orci eu felis facilisis faucibus. Sed in leo at mauris pulvinar placerat. Ut tristique mi vitae metus varius, sed interdum sem rutrum. Vestibulum rhoncus enim ut consectetur lobortis. Ut molestie sed est ut rhoncus. Vivamus sed lorem tempus, sodales mi venenatis, congue enim. Sed vitae metus efficitur, fringilla sem id, molestie diam. Cras sit amet diam est. Aliquam erat volutpat. Donec lobortis egestas massa. Sed lobortis felis pharetra vulputate hendrerit. Nulla vestibulum eu lacus id semper. Praesent sed condimentum elit, at vulputate ante. Praesent justo nisl, ornare nec velit ac, bibendum posuere mi. Proin volutpat purus eu erat sagittis, ut bibendum urna sagittis. Mauris gravida, lacus nec euismod ornare, mi augue fermentum lacus, sed pellentesque tellus nisl rhoncus leo. 
+- Group Administrators: manage a group of resources and the users that can access them.
+
+- Users: consume resources assigned/allocated to them by a group administrator
+
+SCAMP will also offer a degree of **control over the types and location of resources**. For example, an Administrator could **restrict which Azure regions can be used**, and which **Virtual Machine gallery images and sizes are available**. SCAMP will **provision and distribute resources across the available Azure subscriptions** as needed. 
+
+In V1, we plan to allow you to use SCAMP to **manage Azure Web Sites and Virtual Machines** which will in turn be **organized into groups**. Users will only be able to access the resources assigned to them, or that are part of a group that they are the administrator of.
+
+One of the trickiest features we hope to provide in V1, is the ability to **push button creation of a gallery image from an existing virtual machine**. Simplifying this task sufficiently so that a non-technical user can create a reusable image that can be shared with other users.
+
+## Track and Control Azure costs
+First and foremost, we must put in place a way to track the billable usage of users and place some controls on them.
+
+**Usage quotas** can be placed on groups, or individual resources. We adopted the term "quotas" because we cannot currently provide the level of billing measure that would be needed to enforce a fixed cap. So SCAMP will **capture usage metrics** that are available, and provide a way to **estimate usage**. 
+
+The system will **track all user actions**, allowing for simple auditing and state tracking. This will allow automation for cost control such as **automatically shutting down virtual machines** after a given amount of time or when usage quotas are reached.
+
+In addition to setting quotas, the system will even allow for **setting of your own rates** and the **billing period** to be used and if that period is recurring or non-recurring. 
+
+And by **tracking both current and historical usage**, SCAMP will allow you be able to **view and export usage details** to create reports.
