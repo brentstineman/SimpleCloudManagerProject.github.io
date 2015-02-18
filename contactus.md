@@ -26,16 +26,3 @@ Like all open source projects, this is the effort of a team of folks that are do
 {% for member in site.data.teamroster %}
 {% include bio-template.html %}
 {% endfor %}
-
-
-----------
-
-Shawn 
-
-David
-
-Brad
-
-Key contributors
-
-Felix
