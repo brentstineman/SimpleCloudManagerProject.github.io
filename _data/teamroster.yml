@@ -1,0 +1,39 @@
+# core team roster
+
+- name: Brent Stineman
+  title: Cat Herder
+  image: images/teamshots/headshot-brent.jpeg
+  bio: Responsible for helping kick off the project and keeping all the cats moving in the right direction. Not the sharpest technical tool in the shed, but holder of the "vision" and responsible for working with potential adopters.
+  url: http://brentdacodemonkey.wordpress.com
+  url-title: Brent's Notepad
+  twitter: brentcodemonkey
+  email: brestin@mirocosft.com
+  
+- name: Brad Merrill
+  title: MAML Guru
+  image: images/bio-photo.jpg
+  bio: Brad loves digging into the services side of things. Helping us figure out how to best use the MAML v2 libraries for Azure Management.
+  url: https://www.linkedin.com/pub/brad-merrill/0/5b0/431
+  url-title: Linked In
+  
+- name: David Makogon
+  title: Polyglot Master of the Data
+  image: images/teamshots/headshot-david.jpeg
+  bio: Not sure where/how to store something, talk with David. He's the master of multiple forms of data storage and help you find the bbest option. 
+  url: http://www.davidmakogon.com/
+  url-title: Just a moment... David has a thought
+  twitter: dmakogon
+  
+- name: Shawn Cicoria
+  title: Master of the unmastered
+  image: images/teamshots/headshot-shawn.png
+  bio: Shawn is the everyman on the project. There's nothing we've run into that he didn't know something about. When you're stuck, he's our "to go" guy.
+  url: http://blogs.msdn.com/b/scicoria/
+  url-title: Human in the cloud... 
+  twitter: cicorias
+  
+- name: Stas Kondratiev
+  title: Scaleable Dive Master
+  image: images/bio-photo.jpg
+  bio: Another master coder and responsible for some extremely high profile web properties. Always ready for a new challenge.
+  
