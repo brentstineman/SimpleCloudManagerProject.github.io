@@ -11,10 +11,10 @@
   
 - name: Brad Merrill
   title: MAML Guru
-  image: images/bio-photo.jpg
+  image: images/teamshots/headshot-brad.jpg
   bio: Brad loves digging into the services side of things. Helping us figure out how to best use the MAML v2 libraries for Azure Management.
-  url: https://www.linkedin.com/pub/brad-merrill/0/5b0/431
-  url-title: Linked In
+  url: https://github.com/zbrad
+  url-title: Github Profile
   
 - name: David Makogon
   title: Polyglot Master of the Data
