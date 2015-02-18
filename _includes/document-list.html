@@ -1,15 +1,12 @@
-<ul class="fa-ul">
-	<li><i class="fa fa-book fa-fw"></i><strong>Documents</strong></li>
-	{% for page in site.pages %}{% if page.collection == 'docs' and page.category == 'documentation' %}
-		<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}{% endfor %}
-</ul><!-- /.bullets -->
+<i class="fa fa-book fa-fw"></i><strong>Documents</strong>
+
+{% for page in site.pages %}{% if page.collection == 'docs' and page.category == 'documentation' %}
+<a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> : {{ page.description }}
+{% endif %}{% endfor %}
 
 <p></p>
 
-<ul class="fa-ul">
-	<li><i class="fa fa-cog fa-fw"></i><strong>Guides/Tutorials</strong></li>
-	{% for page in site.pages %}{% if page.collection == 'docs' and page.category == 'guide' %}
-		<li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}{% endfor %}
-</ul><!-- /.bullets -->
+<i class="fa fa-cog fa-fw"></i><strong>Guides/Tutorials</strong>
+{% for page in site.pages %}{% if page.collection == 'docs' and page.category == 'guide' %}
+<a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> : {{ page.description }}
+{% endif %}{% endfor %}

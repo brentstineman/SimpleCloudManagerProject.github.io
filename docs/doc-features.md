@@ -1,9 +1,12 @@
 ---
-category: documentation
 layout: document
+categories: ["docs", "features"]
 permalink: /docs/features/
 title: "Features"
 collection: "docs"
+category: documentation
+share: false
+description: A description of the planned features.
 ---
 
 Every project needs a feature list. So as we begin the Simple Cloud Manager Project, we drafted a list of features based on the requirements of potential early adopters, namely educational institutions and small/medium sized businesses.

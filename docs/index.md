@@ -1,10 +1,12 @@
 ---
 layout: document
+categories: "docs"
 permalink: /docs/
 title: "Documentation"
 collection: docs
 ---
 
-<i class="fa fa-camera-retro"></i> fa-camera-retro
+With this project still taking shape, we're building out much of our documentation. Please pick from the options below and use the breadcrumb above to navigate back.
 
-put documentation here, and here, and here
+
+{% include document-list.html %} 
