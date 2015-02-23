@@ -25,3 +25,5 @@ Like all open source projects, this is the effort of a team of folks that are do
 {% for member in site.github.organization_members %}
 {% include bio-template.html %}
 {% endfor %}
+
+The project is called {{ site.github.project_title }}
