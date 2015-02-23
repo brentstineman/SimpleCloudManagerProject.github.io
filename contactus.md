@@ -18,6 +18,8 @@ We'll use twitter to announce changes/progress on the project and once we get to
 If you don't want to let the entire world know you're reaching out to us, or simply can't put the message into 140 characters, we have an alternative. 
 
 
+The project is called {{ site.github.project_title }}.
+
 ----------
 
 ## The Team
