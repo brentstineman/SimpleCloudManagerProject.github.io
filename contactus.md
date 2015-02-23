@@ -17,14 +17,11 @@ We'll use twitter to announce changes/progress on the project and once we get to
 
 If you don't want to let the entire world know you're reaching out to us, or simply can't put the message into 140 characters, we have an alternative. 
 
-
-The project is called {{ site.github.project_title }}.
-
 ----------
 
 ## The Team
 Like all open source projects, this is the effort of a team of folks that are doing this as their "real jobs" allow. If you'd like to speak to someone behind this effort, please feel free to reach out to any of us individually.
 
-{% for member in site.data.teamroster %}
+{% for member in site.github.organization_members %}
 {% include bio-template.html %}
 {% endfor %}
