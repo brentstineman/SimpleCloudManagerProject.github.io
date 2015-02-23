@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 share: false
 permalink: /contactus
 title: "Contact Us"
@@ -22,8 +22,6 @@ If you don't want to let the entire world know you're reaching out to us, or sim
 ## The Team
 Like all open source projects, this is the effort of a team of folks that are doing this as their "real jobs" allow. If you'd like to speak to someone behind this effort, please feel free to reach out to any of us individually.
 
-{% for member in site.github.contributors %}
+{% for member in site.data.teamroster %}
 {% include bio-template.html %}
 {% endfor %}
-
-The project is called {{ site.github.project_title }}

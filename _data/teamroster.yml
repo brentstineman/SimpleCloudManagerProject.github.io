@@ -1,4 +1,11 @@
 # core team roster
+  
+- name: Brad Merrill
+  title: MAML Guru
+  image: images/teamshots/headshot-brad.png
+  bio: Brad loves digging into the services side of things. Helping us figure out how to best use the MAML v2 libraries for Azure Management.
+  url: https://github.com/zbrad
+  url-title: Github Profile
 
 - name: Brent Stineman
   title: Cat Herder
@@ -9,20 +16,21 @@
   twitter: brentcodemonkey
   email: brestin@mirocosft.com
   
-- name: Brad Merrill
-  title: MAML Guru
-  image: images/teamshots/headshot-brad.png
-  bio: Brad loves digging into the services side of things. Helping us figure out how to best use the MAML v2 libraries for Azure Management.
-  url: https://github.com/zbrad
-  url-title: Github Profile
-  
 - name: David Makogon
   title: Polyglot Master of the Data
   image: images/teamshots/headshot-david.jpeg
-  bio: Not sure where/how to store something, talk with David. He's the master of multiple forms of data storage and help you find the bbest option. 
+  bio: Not sure where/how to store something, talk with David. He's the master of multiple forms of data storage and help you find the best option. 
   url: http://www.davidmakogon.com/
   url-title: Just a moment... David has a thought
   twitter: dmakogon
+  
+- name: Felix Rieseberg
+  title: Awesome App Builder
+  image: images/teamshots/headshot-felix.png
+  bio: Talented and knowledgeable open source guru. Expert app builder and resident Ember expert.
+  url: http://www.felixrieseberg.com/
+  url-title: Felix's web site
+  twitter: felixrieseberg
   
 - name: Shawn Cicoria
   title: Master of the unmastered
