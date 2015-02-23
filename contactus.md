@@ -22,7 +22,7 @@ If you don't want to let the entire world know you're reaching out to us, or sim
 ## The Team
 Like all open source projects, this is the effort of a team of folks that are doing this as their "real jobs" allow. If you'd like to speak to someone behind this effort, please feel free to reach out to any of us individually.
 
-{% for member in site.github.organization_members %}
+{% for member in site.github.contributors %}
 {% include bio-template.html %}
 {% endfor %}
 
