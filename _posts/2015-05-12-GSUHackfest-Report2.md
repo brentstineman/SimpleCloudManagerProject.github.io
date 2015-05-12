@@ -5,11 +5,11 @@ date: 2015-05-12 18:00:00 -8000
 author: brent_stineman
 ---
 
-![](../images/posts/2015-05-12-GSUHackfest-Report2/GSU-Students.jpg) 
-
 What is becoming SCAMP actually started last fall with a request that was escalated to TED from an Academic TE, Richard Young. He was working with Georgia State University (GSU) out of Atlanta, GA and they had a desire to increase usage of their Azure subscription by making it available to staff and students in a manner that provided cost transparency/control as well as simplified access and management. 
 
 We quickly realized this was a great solution for the Strategic Engagements team to tackle as these two problems were fairly common. We also wanted to take the opportunity to work with various universities to show them our new “hack fest” approach to solving these problems. Help change some hearts and minds as it were. The week of May 4th, we took our first major step on the later objective. 
+
+![](../images/posts/2015-05-12-GSUHackfest-Report2/GSU-Students.jpg) 
 
 Four students and two staff members from GSU joined TED team members Khaled, Brad, Erik, and I in Redmond, WA to get our hands a bit dirty with the SCAMP solution. We’d had an introduction call the week before to prep the students for what they were going to do, but when I met them at the hotel on Monday morning, they still looked like they weren’t sure what they were in for. In this, they learned their first key lesson with software development, the path ahead is rarely paved and painted. 
 
@@ -28,7 +28,7 @@ I think Wasfi (aka Waffles), one of the GSU students sum up their experience bes
 > 
 > Helping out with this project taught a lot, and I hope I don’t forget the experience in the future. I’ve read about lot of the topics we discussed and learned the concepts about what we worked on, but never did I implement or deep dive into the code. This experience helped me jumpstart my interest and really understand the life of a coder, computer scientist, and an engineer to help solve problems.
 
-![](../images/posts/2015-05-12-GSUHackfest-Report2/collaboration.jpg)
+![](../images/posts/2015-05-12-GSUHackfest-Report2/collaboration.JPG)
 
 However, the event wasn’t purely educational. We made some significant progress on the solution. We spent time two GSU Central IT staffers, Kelly (Enterprise Computing) and Jaro (Application Engineering) to help iron out a few of the SCAMP features which we’ll be blogging about this week. We also started implementing a UI overhaul (the original designs were based on my extremely poor UI design skills), and started implementation on two key subsystems (request activity logging and state management). We expanded our use of TypeScript for managing the interface classes/objects between C# and JavaScript. And with Khal’s help overcame a couple key challenges we had been facing and uncovered and corrected a couple issues in the solution’s design. 
 
