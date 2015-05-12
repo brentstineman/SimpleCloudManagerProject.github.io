@@ -28,7 +28,7 @@ I think Wasfi (aka Waffles), one of the GSU students sum up their experience bes
 > 
 > Helping out with this project taught a lot, and I hope I don’t forget the experience in the future. I’ve read about lot of the topics we discussed and learned the concepts about what we worked on, but never did I implement or deep dive into the code. This experience helped me jumpstart my interest and really understand the life of a coder, computer scientist, and an engineer to help solve problems.
 
-![](../images/posts/2015-05-12-GSUHackfest-Report2/collaboration.JPG)
+![](../images/posts/2015-05-12-GSUHackfest-Report2/collaboration.jpg)
 
 However, the event wasn’t purely educational. We made some significant progress on the solution. We spent time two GSU Central IT staffers, Kelly (Enterprise Computing) and Jaro (Application Engineering) to help iron out a few of the SCAMP features which we’ll be blogging about this week. We also started implementing a UI overhaul (the original designs were based on my extremely poor UI design skills), and started implementation on two key subsystems (request activity logging and state management). We expanded our use of TypeScript for managing the interface classes/objects between C# and JavaScript. And with Khal’s help overcame a couple key challenges we had been facing and uncovered and corrected a couple issues in the solution’s design. 
 
