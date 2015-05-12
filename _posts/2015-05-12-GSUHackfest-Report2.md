@@ -39,6 +39,7 @@ All in all, it was an incredible few days and ended all too soon. Huge thanks to
 But now we turn our attention ahead once again as we marching towards our first pilot implementation with GSU the week of June 22nd. A date that will come far too quickly. But hopefully with the help of our new remote team members at GSU, we’ll be able to make our target and have something that’s workable by that time. 
 
 GSU Slideshow: [http://s.jaroklc.net/scamp/](http://s.jaroklc.net/scamp/)
+
 Student Pull Request: [https://github.com/SimpleCloudManagerProject/SCAMP/pull/140](https://github.com/SimpleCloudManagerProject/SCAMP/pull/140)
 
 
