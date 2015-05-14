@@ -1,7 +1,7 @@
 ---
 layout: document
-categories: ["docs", "database"]
-permalink: /docs/features/
+categories: ["docs", "resources"]
+permalink: /docs/features/resourceusage
 title: "Resource Usage Monitoring"
 collection: "docs"
 category: documentation
