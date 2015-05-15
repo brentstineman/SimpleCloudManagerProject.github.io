@@ -84,7 +84,7 @@ The workflow for the monitor will be as follows:
 	- If the SCAMP state of the resource differs from Azure’s reported state, update the state
 	- If the resource is in a billable state, update budget consumption
 
-The tricky part here is the update of the consumption metrics (how much the resource has “cost”). Fortunately, my colleague [Gabriele Castellani](http://www.gabrielecastellani.it/) from Italy had already put some excellent thinking into this and sent along what follows. 
+The tricky part here is the update of the consumption metrics (how much the resource has “cost”). Fortunately, my colleague [Gabriele Castellani](http://www.gabrielecastellani.it/) from Italy had already put some excellent thinking into this and [created a slide show](/docs/BudgetManagement.pptx) that outlined nearly all of what follows. 
 
 As previously mentioned a budget itself has the following attributes: start & end dates; billing period (on end or # of days); total & available budget. These are set by a system admin when they assign group admin permissions. The group admin then allocates a portion of that budget out to each group they create/own, which is in turn allocated out to each user. As the users create resources, these will consume the allocated budgets at each level.
 
