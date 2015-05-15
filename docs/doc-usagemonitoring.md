@@ -43,7 +43,7 @@ These secondary attributes of the budget (budget period, start date, end date) w
 
 When creating a group, a group administrator will define several attributes such as the name, what resource templates can be used, and when the group expires. They will also set the default budget allocation for each member of the group. When a user is added to the group, they will be given that budget amount by default. Altering the group’s default budget amount will not change the budget allocation of any users already assigned to the group. The group’s admin/managers will be able to alter the budget quotas for individual users at any time. 
 
-> **Backlog/JumpIn:** SCAMP v1.0 will not track if the total budget allocated to all users exceeds the budget allocation for the group. This would need to be checked as users are added to the group or user budget allocations are changed. 
+> **Backlog/JumpIn:** SCAMP v1.0 will not track if the total budget allocated to all users exceeds the budget allocation for the group. This would need to be checked as users are added to the group or user budget allocations are changed. **[Linked to GitHub Issue #152](https://github.com/SimpleCloudManagerProject/SCAMP/issues/152)** 
 
 Please note that if a group budget allocation is reduced (or the group removed), only that portion of the group’s allocation that has not yet been used will be returned to the group admin for reallocation. This will prevent a group admin from re-using budget allocations by removing and recreating groups.
 
