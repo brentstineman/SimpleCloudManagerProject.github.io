@@ -1,7 +1,7 @@
 ---
 layout: document
 categories: ["docs", "database"]
-permalink: /docs/datadesign
+permalink: /docs/datadesign/
 title: "Data Storage"
 collection: "docs"
 category: documentation
