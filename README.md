@@ -1,6 +1,8 @@
 # Welcome
 # Simple Cloud Manager Project
 
+![](/images/scamp_logo.png)
+
 Here you'll find any updates, general notes and links, and high level goals, status.
 
 Here is the home page of [Simple Cloud Manager](http://www.Simplecloudmgr.org).
