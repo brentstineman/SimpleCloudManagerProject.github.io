@@ -1,9 +1,9 @@
 <div id="docwrap">
 	<div id="docnav">
-		<img src="{{ member.image }}" alt="{{ member.name }}" />
+		<img src="{{ member.image }}" alt="{{ member.name }}" width="120px" />
 	</div>
 	<div id="docmain">
-		<h2>{{ member.name }} - {{ member.title }}</h2>		
+		<h4>{{ member.name }} - {{ member.title }}</h4>		
 		{{ member.bio }}<br>		
 
 		{% if member.url %}Online at: <a href="{{ member.url }}" title="{{ member.url-title }}">{{ member.url-title }}</a><br>{% endif %}
@@ -12,5 +12,4 @@
 		{% if member.twitter and member.email %} or {% endif %}
 		{% if member.email %}<i class="fa fa-envelope"> <a href="mailto:{{ member.email }}" title="{{ member.email }}">{{ member.email }}</a></i>{% endif %}
 	</div>
-
 </div>

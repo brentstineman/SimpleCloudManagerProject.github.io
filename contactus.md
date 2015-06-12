@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 share: false
 permalink: /contactus
 title: "Contact Us"
@@ -16,7 +16,6 @@ We'll use twitter to announce changes/progress on the project and once we get to
 <i class="fa fa-envelope-square"></i> Send mail to [simplecloudmgr@outlook.com](mailto:simplecloudmgr@outlook.com "Email Us")
 
 If you don't want to let the entire world know you're reaching out to us, or simply can't put the message into 140 characters, we have an alternative. 
-
 
 ----------
 
