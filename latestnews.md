@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /latestnews
+permalink: /latestnews/
 title: "Latest News"
 ---
 

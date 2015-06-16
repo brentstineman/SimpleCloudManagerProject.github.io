@@ -1,7 +1,7 @@
 ---
 layout: article
 share: false
-permalink: /contribute
+permalink: /contribute/
 title: "How to Contribute"
 ---
 

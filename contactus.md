@@ -1,7 +1,7 @@
 ---
 layout: article
 share: false
-permalink: /contactus
+permalink: /contactus/
 title: "Contact Us"
 ---
 
