@@ -3,6 +3,8 @@
 
 ![](/images/scamp_logo.png)
 
+Hello Georgia State!
+
 Here you'll find any updates, general notes and links, and high level goals, status.
 
 Here is the home page of [Simple Cloud Manager](http://www.Simplecloudmgr.org).
